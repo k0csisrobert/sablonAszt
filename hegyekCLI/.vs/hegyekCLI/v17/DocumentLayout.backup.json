@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7453C941-87AC-4841-BEB0-B851708F0090}|hegyekWPF\\hegyekWPF.csproj|c:\\users\\robii\\source\\repos\\hegyekcli\\hegyekwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7453C941-87AC-4841-BEB0-B851708F0090}|hegyekWPF\\hegyekWPF.csproj|solutionrelative:hegyekwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7453C941-87AC-4841-BEB0-B851708F0090}|hegyekWPF\\hegyekWPF.csproj|c:\\users\\robii\\source\\repos\\hegyekcli\\hegyekwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7453C941-87AC-4841-BEB0-B851708F0090}|hegyekWPF\\hegyekWPF.csproj|solutionrelative:hegyekwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04752307-0AF8-44A4-B347-327908A092F3}|hegyekCLI\\hegyekCLI.csproj|c:\\users\\robii\\source\\repos\\hegyekcli\\hegyekcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04752307-0AF8-44A4-B347-327908A092F3}|hegyekCLI\\hegyekCLI.csproj|solutionrelative:hegyekcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07516C31-E059-468C-B6A9-45D8EE69E0AA}|hegyekCLITests\\hegyekCLITests.csproj|c:\\users\\robii\\source\\repos\\hegyekcli\\hegyekclitests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07516C31-E059-468C-B6A9-45D8EE69E0AA}|hegyekCLITests\\hegyekCLITests.csproj|solutionrelative:hegyekclitests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04752307-0AF8-44A4-B347-327908A092F3}|hegyekCLI\\hegyekCLI.csproj|c:\\users\\robii\\source\\repos\\hegyekcli\\hegyekcli\\hegycsucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04752307-0AF8-44A4-B347-327908A092F3}|hegyekCLI\\hegyekCLI.csproj|solutionrelative:hegyekcli\\hegycsucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04752307-0AF8-44A4-B347-327908A092F3}|hegyekCLI\\hegyekCLI.csproj|c:\\users\\robii\\source\\repos\\hegyekcli\\hegyekcli\\hegyek.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04752307-0AF8-44A4-B347-327908A092F3}|hegyekCLI\\hegyekCLI.csproj|solutionrelative:hegyekcli\\hegyek.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "hegyekWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekWPF\\MainWindow.xaml*",
+              "RelativeToolTip": "hegyekWPF\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T15:12:18.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "hegyekWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekWPF\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "hegyekWPF\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAnwEQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:12:17.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekCLITests\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "hegyekCLITests\\ProgramTests.cs",
+              "ToolTip": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekCLITests\\ProgramTests.cs",
+              "RelativeToolTip": "hegyekCLITests\\ProgramTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:05:18.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hegyek.csv",
+              "DocumentMoniker": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekCLI\\hegyek.csv",
+              "RelativeDocumentMoniker": "hegyekCLI\\hegyek.csv",
+              "ToolTip": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekCLI\\hegyek.csv",
+              "RelativeToolTip": "hegyekCLI\\hegyek.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-16T14:45:43.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hegycsucs.cs",
+              "DocumentMoniker": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekCLI\\Hegycsucs.cs",
+              "RelativeDocumentMoniker": "hegyekCLI\\Hegycsucs.cs",
+              "ToolTip": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekCLI\\Hegycsucs.cs",
+              "RelativeToolTip": "hegyekCLI\\Hegycsucs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:46:58.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekCLI\\Program.cs",
+              "RelativeDocumentMoniker": "hegyekCLI\\Program.cs",
+              "ToolTip": "C:\\Users\\robii\\source\\repos\\hegyekCLI\\hegyekCLI\\Program.cs",
+              "RelativeToolTip": "hegyekCLI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:45:24.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
