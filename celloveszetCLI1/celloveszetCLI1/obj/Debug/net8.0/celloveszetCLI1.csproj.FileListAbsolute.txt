@@ -1,0 +1,15 @@
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\bin\Debug\net8.0\celloveszetCLI1.exe
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\bin\Debug\net8.0\lovesek.csv
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\bin\Debug\net8.0\celloveszetCLI1.deps.json
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\bin\Debug\net8.0\celloveszetCLI1.runtimeconfig.json
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\bin\Debug\net8.0\celloveszetCLI1.dll
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\bin\Debug\net8.0\celloveszetCLI1.pdb
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\obj\Debug\net8.0\celloveszetCLI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\obj\Debug\net8.0\celloveszetCLI1.AssemblyInfoInputs.cache
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\obj\Debug\net8.0\celloveszetCLI1.AssemblyInfo.cs
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\obj\Debug\net8.0\celloveszetCLI1.csproj.CoreCompileInputs.cache
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\obj\Debug\net8.0\celloveszetCLI1.dll
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\obj\Debug\net8.0\refint\celloveszetCLI1.dll
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\obj\Debug\net8.0\celloveszetCLI1.pdb
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\obj\Debug\net8.0\celloveszetCLI1.genruntimeconfig.cache
+C:\Users\robii\source\repos\celloveszetCLI1\celloveszetCLI1\obj\Debug\net8.0\ref\celloveszetCLI1.dll
