@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLS_CLI", "GLS_CLI\GLS_CLI.csproj", "{E059E0CB-A84D-4721-81F5-2EA11C499147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLS_CLITests", "GLS_CLITests\GLS_CLITests.csproj", "{4BE87FCF-2E12-4FFB-94D2-FF562F5151AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLS_WPF", "GLS_WPF\GLS_WPF.csproj", "{F26206E6-08D1-4520-965E-A958CCC063A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E059E0CB-A84D-4721-81F5-2EA11C499147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E059E0CB-A84D-4721-81F5-2EA11C499147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E059E0CB-A84D-4721-81F5-2EA11C499147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E059E0CB-A84D-4721-81F5-2EA11C499147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE87FCF-2E12-4FFB-94D2-FF562F5151AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE87FCF-2E12-4FFB-94D2-FF562F5151AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE87FCF-2E12-4FFB-94D2-FF562F5151AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE87FCF-2E12-4FFB-94D2-FF562F5151AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F26206E6-08D1-4520-965E-A958CCC063A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26206E6-08D1-4520-965E-A958CCC063A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26206E6-08D1-4520-965E-A958CCC063A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26206E6-08D1-4520-965E-A958CCC063A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {528FE562-AC0F-4B14-B6FE-1667F6C849E5}
+	EndGlobalSection
+EndGlobal
